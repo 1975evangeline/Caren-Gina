@@ -1,9 +1,9 @@
 {
-  "id": "/caren-gina-credits/",
+  "./": "/caren-gina-credits/",
   "name": "Caren & Gina Credits",
   "short_name": "C&G Credits",
-  "start_url": "/caren-gina-credits/",
-  "scope": "/caren-gina-credits/",
+  "./": "/caren-gina-credits/",
+  "./": "/caren-gina-credits/",
   "display": "standalone",
   "background_color": "#f3f6f4",
   "theme_color": "#1f6b52",
